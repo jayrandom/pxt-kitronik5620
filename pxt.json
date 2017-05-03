@@ -1,0 +1,18 @@
+{
+    "name": "kitronik5620",
+    "version": "0.0.0",
+    "description": "A Kitronik 5620 motor driver package for pxt-microbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": false
+}
