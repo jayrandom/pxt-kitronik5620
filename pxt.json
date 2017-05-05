@@ -1,6 +1,6 @@
 {
     "name": "kitronik5620",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A Kitronik 5620 motor driver package for pxt-microbit",
     "license": "MIT",
     "dependencies": {
